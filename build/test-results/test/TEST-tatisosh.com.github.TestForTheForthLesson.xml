@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tatisosh.com.github.TestForTheForthLesson" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-23T18:50:58" hostname="DESKTOP-4NIBSI7" time="18.79">
+  <properties/>
+  <testcase name="shouldHaveJUnitCodeInSoftAssertions()" classname="tatisosh.com.github.TestForTheForthLesson" time="5.044"/>
+  <testcase name="dragAndDrop()" classname="tatisosh.com.github.TestForTheForthLesson" time="13.746"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 13 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Users\Testorium\IdeaProjects\lesson5\build\downloads\1645642258955_11400_13
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Testorium\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 47002
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+февр. 23, 2022 9:51:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO com.codeborne.selenide.webdriver.HttpClientTimeouts - Changed connectTimeout from 120000 to 60000
+[Test worker] INFO com.codeborne.selenide.webdriver.HttpClientTimeouts - Changed readTimeout from 10800000 to 120000
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=98.0.4758.102 Platform=WINDOWS
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.25.1
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on WINDOWS (c06d9603f7c28100fe26c4a06c080263)
+]]></system-err>
+</testsuite>
